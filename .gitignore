@@ -281,5 +281,5 @@ ENV/
 env.bak/
 venv.bak/
 pip-selfcheck.json
-.idea
+.idea/
 # End of https://www.gitignore.io/api/git,venv,django,python,pycharm
