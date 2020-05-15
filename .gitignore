@@ -275,6 +275,7 @@ fabric.properties
 pyvenv.cfg
 .env
 .venv
+.idea
 env/
 venv/
 ENV/
